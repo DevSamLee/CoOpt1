@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CoOpt1"
+rootProject.name = "ParsingJson"
 include(":app")
