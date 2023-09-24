@@ -21,6 +21,7 @@ import com.example.coopt1.ui.theme.CoOpt1Theme
 import org.json.JSONArray
 
 class MainActivity : ComponentActivity() {
+
     val url = "https://jsonplaceholder.typicode.com/posts"
         override fun onCreate(savedInstanceState: Bundle?) {
             super.onCreate(savedInstanceState)
